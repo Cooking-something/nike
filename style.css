@@ -1,0 +1,29 @@
+body{
+    background-color: #FFFFF7 ;
+}
+li{
+    display:inline-block;
+    padding:10px;
+}
+nav{
+    text-align:center;
+}
+#shop{
+    text-align:center;
+}
+.item{
+    width:240px;
+    height:365px;
+    background-color:lightgray;
+    padding:10px;
+    margin:10px;
+}
+.ig{
+    padding:20px;
+    float:right;
+}
+
+footer{
+    color: yellow;
+    text-align: center;
+}
